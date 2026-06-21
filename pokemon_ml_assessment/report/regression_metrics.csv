@@ -1,0 +1,6 @@
+Metric,Value
+MAE,0.0
+MSE,0.0
+RMSE,0.0
+R2_Score,1.0
+Mean_CV_R2,1.0
